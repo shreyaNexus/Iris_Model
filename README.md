@@ -182,5 +182,4 @@ KIIT-DU
 
 SCREENSHOT:-
 ## 📸 Project Screenshot
-
-![Image]()
+![Image](.png)
