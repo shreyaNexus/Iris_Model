@@ -181,4 +181,6 @@ B.Tech Computer Science & System Engineering
 KIIT-DU
 
 SCREENSHOT:-
-![Model Output](Screenshot 2026-09-19 114731.png)
+## 📸 Project Screenshot
+
+![Iris Flower Classification Output](screenshots/Screenshot 2026-09-19 114731.png)
