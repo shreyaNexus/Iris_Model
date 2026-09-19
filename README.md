@@ -182,4 +182,4 @@ KIIT-DU
 
 SCREENSHOT:-
 ## 📸 Project Screenshot
-![Image](.png)
+![Image](https://github.com/shreyaNexus/Iris_Model/blob/2b72dfb1076d4a5b5adabb0c0b208c966ad6a0d5/Screenshot%202026-09-19%20114731.png)
