@@ -183,4 +183,4 @@ KIIT-DU
 SCREENSHOT:-
 ## 📸 Project Screenshot
 
-![Iris Flower Classification Output](screenshots/Screenshot%202026-09-19%20114731.png)
+![Image]()
